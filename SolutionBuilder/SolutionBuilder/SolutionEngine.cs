@@ -8,5 +8,6 @@ namespace SolutionBuilder
 {
     public class Class1
     {
+        Console.WriteLine("TEST");
     }
 }
