@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SolutionBuilder
 {
-    public class Class1
+    public class SolutionEngine
     {
+        public SolutionEngine()
+            {
+        Console.WriteLine("TEST");
+            }
     }
 }
