@@ -9,8 +9,8 @@ namespace SolutionBuilder
     public class SolutionEngine
     {
         public SolutionEngine()
-            {
-        Console.WriteLine("TEST");
-            }
+        {
+            Console.WriteLine("TEST");
+        }
     }
 }
