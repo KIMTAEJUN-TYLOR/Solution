@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SolutionBuilder
 {
-    public class Class1
+    public class SolutionEngine
     {
         Console.WriteLine("TEST");
     }
